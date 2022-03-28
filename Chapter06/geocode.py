@@ -1,7 +1,7 @@
 from csv import DictReader, DictWriter
 from time import sleep
 
-import requests
+import requests #wrapper for urllib
 from tqdm import tqdm
 
 
